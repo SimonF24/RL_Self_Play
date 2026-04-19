@@ -1,5 +1,5 @@
 # RL_Self_Play
-A repo training RL agents using self-play, the technique of training an agent by having it compete with itself or a recent version of itself so the difficulty of the opponent increases with the skill of the agent. Self-play is behind the best performances of machine learning in zero sum environments like competitive games, most famously in Chess with AlphaZero. 
+A repo training RL agents using self-play, the technique of having an agent compete with itself or a recent version of itself so the difficulty of the opponent increases with the skill of the agent. Self-play is behind the best performances of machine learning in zero sum environments like competitive games, most famously in Chess with AlphaZero. 
 
 ## Implemented Environments
 
